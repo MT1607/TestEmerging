@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-10T11:40:21 ICT" name="Default suite" finished-at="2022-06-10T11:40:32 ICT" duration-ms="11190">
+    <groups>
+    </groups>
+    <test started-at="2022-06-10T11:40:21 ICT" name="Default test" finished-at="2022-06-10T11:40:32 ICT" duration-ms="11190">
+      <class name="com.gs.nguyen.TestFirefox">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.gs.nguyen.TestFirefox@48aaecc3]" started-at="2022-06-10T11:40:21 ICT" name="beforeTest" finished-at="2022-06-10T11:40:30 ICT" duration-ms="9000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="KhoPhim()[pri:0, instance:com.gs.nguyen.TestFirefox@48aaecc3]" started-at="2022-06-10T11:40:30 ICT" name="KhoPhim" finished-at="2022-06-10T11:40:31 ICT" duration-ms="588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KhoPhim -->
+        <test-method signature="titleGalaxy()[pri:0, instance:com.gs.nguyen.TestFirefox@48aaecc3]" started-at="2022-06-10T11:40:31 ICT" name="titleGalaxy" finished-at="2022-06-10T11:40:31 ICT" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleGalaxy -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.gs.nguyen.TestFirefox@48aaecc3]" started-at="2022-06-10T11:40:31 ICT" name="afterTest" finished-at="2022-06-10T11:40:32 ICT" duration-ms="1483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.gs.nguyen.TestFirefox -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
